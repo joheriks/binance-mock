@@ -1,0 +1,6 @@
+{
+   "name": "binance-mock",
+   "dependencies": {
+      "express": "^4.13"
+   }
+}
